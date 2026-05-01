@@ -1,0 +1,30 @@
+name: flashx
+
+description: >
+  Beautiful, animated, and highly customizable snackbar, toast, and notification
+  package for Flutter with zero boilerplate support.
+
+version: 1.0.1
+homepage: https://pub.dev/packages/flashx
+repository: https://pub.dev
+topics:
+  - animations
+  - notification
+  - overlay
+  - snackbar
+  - toast
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
