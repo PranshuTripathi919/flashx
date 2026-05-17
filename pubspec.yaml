@@ -4,9 +4,12 @@ description: >
   Beautiful, animated, and highly customizable snackbar, toast, and notification
   package for Flutter with zero boilerplate support.
 
-version: 1.0.1
+version: 1.0.2
+
 homepage: https://pub.dev/packages/flashx
-repository: https://pub.dev
+repository: https://github.com/PranshuTripathi919/flashx
+issue_tracker: https://github.com/PranshuTripathi919/flashx
+
 topics:
   - animations
   - notification
